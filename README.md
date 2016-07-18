@@ -20,7 +20,7 @@ Yes, invites to other servers for the bot has been disabled c:
 
 ## What to Expect
 
-StarBot may be using the NadekoBot's Frame/Initial Coding, but I assure you that StarBot will have it's own custom commands and functions as well as activities that the users of the bot can take part in, such as trivia, tick-tac-toe [ If I can ever make it work :'c ] and hangman. Those are only just a few - and with the help of the community, the bot can become something much bigger.
+StarBot may be using the NadekoBot's Frame/Initial Coding, but I assure you that StarBot will have it's own custom commands and functions as well as activities that the users of the bot can take part in, such as trivia, tic-tac-toe [ If I can ever make it work :'c ] and hangman. Those are only just a few - and with the help of the community, the bot can become something much bigger.
 
 ## Ending
 
